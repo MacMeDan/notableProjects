@@ -15,3 +15,6 @@ https://github.com/CosmicMind/Material
 ##Random
 make images out of legos
 https://github.com/StefanLage/LegofySwift?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_92
+
+## ImageFaceDetection
+https://github.com/BeauNouvelle/AspectFillFaceAware?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_97
