@@ -21,3 +21,8 @@ https://github.com/StefanLage/LegofySwift?utm_campaign=This%2BWeek%2Bin%2BSwift&
 
 ## ImageFaceDetection
 https://github.com/BeauNouvelle/AspectFillFaceAware?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_97
+
+
+##IOS10 Sampiler
+Great examples of features available is ios10
+https://github.com/shu223/iOS-10-Sampler
