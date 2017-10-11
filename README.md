@@ -6,8 +6,7 @@ Iconic will help you make icon fonts integration on iOS easy and effortless. Its
 [Iconic](https://github.com/dzenbot/Iconic?utm_campaign=Swift%2BSandbox&utm_medium=email&utm_source=Swift_Sandbox_47)
 
 ## Service
-# [QuickType](https://swift.quicktype.io/)
-A great resource for taking JSON data and generating the models in many languages including Swift.
+[QuickType](https://swift.quicktype.io/) take raw `JSON` data and generate models in many languages including Swift.
 
 
 ## Design
