@@ -25,3 +25,7 @@ Great examples of [features available is ios10](https://github.com/shu223/iOS-10
 
 ## iOSGames
 [line Runner Game](https://github.com/jocelynlih/SwiftGameBook)
+
+
+## UICollectionView
+[SpreadSheet like collectionview](https://www.brightec.co.uk/ideas/uicollectionview-using-horizontal-and-vertical-scrolling-sticky-rows-and-columns)
