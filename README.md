@@ -12,8 +12,6 @@ Add [Material](https://github.com/CosmicMind/Material) to your project with ease
 
 [Style Kit](https://github.com/146BC/StyleKit) adding JSON to update your style of your app.
 
-##Random
-Make [images out of legos](https://github.com/StefanLage/LegofySwift)
 
 ## ImageFaceDetection
 https://github.com/BeauNouvelle/AspectFillFaceAware
@@ -29,3 +27,6 @@ Great examples of [features available is ios10](https://github.com/shu223/iOS-10
 
 ## UICollectionView
 [SpreadSheet like collectionview](https://www.brightec.co.uk/ideas/uicollectionview-using-horizontal-and-vertical-scrolling-sticky-rows-and-columns)
+
+## Random
+Make [images out of legos](https://github.com/StefanLage/LegofySwift)
