@@ -5,6 +5,8 @@
 ## Service
 [QuickType](https://swift.quicktype.io/) take raw `JSON` data and generate models in many languages including Swift.
 
+[periphery](https://github.com/peripheryapp/periphery) Scans your project and helps you to idenfity unused code.
+
 ## Design
 Add [Material](https://github.com/CosmicMind/Material) to your project with ease. 
 
