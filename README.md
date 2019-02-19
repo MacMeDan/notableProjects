@@ -10,6 +10,8 @@ Add [Material](https://github.com/CosmicMind/Material) to your project with ease
 
 [Style Kit](https://github.com/146BC/StyleKit) adding JSON to update your style of your app.
 
+[Custom View Controller Presentation Tips & Tricks](https://kylebashour.com/posts/custom-view-controller-presentation-tips)
+
 ## ImageFaceDetection
 https://github.com/BeauNouvelle/AspectFillFaceAware
 
